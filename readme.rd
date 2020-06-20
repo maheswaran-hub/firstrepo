@@ -1,5 +1,4 @@
 this is my first readme file
 **Adding my second test**
-
-**fourth line**
-All branch to origin
+###adding changes to the third linecmd
+Script
